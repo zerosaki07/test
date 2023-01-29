@@ -48,30 +48,6 @@ ruleset=🎯 国内流量,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 国内流量,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
 ruleset=🎯 国内流量,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
-DOMAIN-SUFFIX,abema.tv,🎬 日韩媒体
-DOMAIN-SUFFIX,dmm.com,🎬 日韩媒体
-DOMAIN-SUFFIX,dmm.co.jp,🎬 日韩媒体
-DOMAIN-SUFFIX,noodlemagazine.com,🎬 日韩媒体
-DOMAIN-SUFFIX,pvvstream.pro,🎬 日韩媒体
-DOMAIN-SUFFIX,getchu.com,🌏 国外网站
-DOMAIN-KEYWORD,nyaa,🌏 国外网站
-DOMAIN-SUFFIX,rmt.club,🌏 国外网站
-DOMAIN-KEYWORD,unitrix,🌏 国外网站
-DOMAIN-SUFFIX,blog.livedoor.jp,🌏 国外网站
-DOMAIN-KEYWORD,gungho,🌏 国外网站
-DOMAIN-SUFFIX,playno1.com,📲 Telegram
-DOMAIN-KEYWORD,jav,📲 Telegram
-DOMAIN-KEYWORD,jdbstatic,📲 Telegram
-DOMAIN-SUFFIX,jdbstatic.com,📲 Telegram
-DOMAIN-KEYWORD,jdbstatic,📲 Telegram
-DOMAIN-SUFFIX,jdbstatic.com,📲 Telegram
-IP-CIDR,18.182.0.0/16,🎬 Emby
-DOMAIN-KEYWORD,discord,🎬 Emby
-DOMAIN-KEYWORD,nintendo,🎬 Emby
-DOMAIN-SUFFIX,unitrix.net,🎬 Emby
-DOMAIN-SUFFIX,gungho.jp,🎬 Emby
-DOMAIN-SUFFIX,gqgq.club,DIRECT
-DOMAIN-SUFFIX,downloadtorrentfile.com,DIRECT
 ;设置规则标志位
 
 ;设置分组标志位
